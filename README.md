@@ -24,7 +24,7 @@ Aplicativo mobile em React Native para a empresa Arca Embriões, que consome a A
 
 ---
 
-### 📖 [BIDLEM](https://github.com/gabnhac/app-arca-embrioes)  
+### 📖 [BIDLEM](https://github.com/laysgabrielle/biblia-em-ordem)  
 
 Aplicativo criado para auxiliar na organização da Escola Dominical da Igreja Evangélica Assembleia de Deus.  
 Desenvolvido com React Native, utilizando o Firebase como Backend-as-a-Service (BaaS) e o Cloud Firestore como banco de dados NoSQL.
